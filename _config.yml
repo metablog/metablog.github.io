@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Khusan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "나의 개인 블로그"
   location         : "Uzbekistan"
   email            :
